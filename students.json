@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "101",
+        "name": "vimal",
+        "age": "24",
+        "course": "MCA"
+    },
+    {
+        "student_id": "105",
+        "name": "shivani",
+        "age": "22",
+        "course": "B.sc"
+    },
+    {
+        "student_id": "103",
+        "name": "shivam",
+        "age": "25",
+        "course": "MBA"
+    },
+    {
+        "student_id": "102",
+        "name": "poonam",
+        "age": "26",
+        "course": "M.sc"
+    }
+]
